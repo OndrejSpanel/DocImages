@@ -2,7 +2,7 @@ package com.github.ondrejspanel.doc
 
 /** Main - application entry point
  * <br/>
- * <img src="main.png"/>
+ * <img src="doc-files/main.png"/>
  *
  */
 

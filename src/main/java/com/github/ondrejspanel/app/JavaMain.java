@@ -2,7 +2,7 @@ package com.github.ondrejspanel.app;
 
 /** JavaMain - application entry point (written in Java)
  * <br/>
- * <img src="main.png"/>
+ * <img src="doc-files/main.png"/>
  *
  */
 
